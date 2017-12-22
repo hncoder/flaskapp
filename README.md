@@ -2,13 +2,22 @@
 a flask app development architecture
 
 ## 1）服务器准备
+
 安装python3  
+centos:  
+https://www.cnblogs.com/JahanGu/p/7452527.html
+
+mac:
 方法一：https://www.python.org  
 方法二：brew install python3  
 
 安装pip3  
+centos:
+https://www.cnblogs.com/wenchengxiaopenyou/p/5709218.html
 
-安装Pymysql: pip install PyMySQL
+安装flask：pip3 install flask
+
+安装Pymysql: pip3 install PyMySQL
 
 
 安装数据库  
@@ -22,7 +31,8 @@ https://dev.mysql.com/downloads/mysql/
 连接mysql：mysql -u root -p  
 修改root密码：ALTER USER 'root'@'localhost' IDENTIFIED BY 'root'  
 mac mysql可视化工具：Workbench  
-卸载mysql：sudo rm -rf /var/db/receipts/com.mysql.*  
+卸载mysql：sudo rm -rf /var/db/receipts/com.mysql.*  
+远程连接：http://blog.csdn.net/freecodetor/article/details/5799550
 
 安装虚拟环境  
 sudo easy_install virtualenv  
