@@ -12,6 +12,10 @@ a flask app development architecture
 
 
 安装数据库  
+centos:
+https://www.cnblogs.com/starof/p/4680083.html
+
+mac:
 https://dev.mysql.com/downloads/mysql/  
 配置环境变量：export PATH=${PATH}:/usr/local/mysql/bin  
 启动数据库：系统偏好设置  
