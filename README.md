@@ -8,6 +8,8 @@ a flask app development architecture
 
 安装pip3  
 
+安装Pymysql: pip install PyMySQL
+
 
 安装数据库  
 https://dev.mysql.com/downloads/mysql/  
