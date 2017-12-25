@@ -63,3 +63,6 @@ python3 manage.py db init
 python3 manage.py db migrate -m "xxxx"  
 python3 manage.py db upgrade  
 python3 manage.py db downgrade  
+
+## 3）部署  
+https://www.cnblogs.com/Ray-liang/p/4837850.html
