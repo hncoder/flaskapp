@@ -40,6 +40,9 @@ sudo easy_install virtualenv
 安装flask  
 pip3 install flask  
 
+安装nginx  
+http://www.linuxidc.com/Linux/2016-09/134907.htm
+
 安装开发工具及插件  
 sublime3  
 
