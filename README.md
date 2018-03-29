@@ -68,4 +68,5 @@ python3 manage.py db upgrade
 python3 manage.py db downgrade  
 
 ## 3）部署  
+scp -r app/* root@111.230.223.219:../home/www/kaokeapp/app/
 https://www.cnblogs.com/Ray-liang/p/4837850.html
